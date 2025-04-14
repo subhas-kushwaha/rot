@@ -1001,7 +1001,7 @@ const questions = [
                 "answer_hi": "हरि सिंह",
                 "attempted": false
         }
-,
+        ,
 
 
 ];

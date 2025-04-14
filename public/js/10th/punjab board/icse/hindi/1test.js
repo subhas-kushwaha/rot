@@ -907,9 +907,9 @@ const questions = [
                 "options_hi": ["मैथिलीशरण गुप्त", "रामधारी सिंह 'दिनकर'", "हरिवंश राय बच्चन", "सूर्यकांत त्रिपाठी 'निराला'"],
                 "answer_en": "Harivansh Rai Bachchan",
                 "answer_hi": "हरिवंश राय बच्चन"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 82,
                 "question_en": "Which of these is a 'द्वंद्व समास' example?",
                 "question_hi": "निम्न में से कौन 'द्वंद्व समास' का उदाहरण है?",
@@ -917,9 +917,9 @@ const questions = [
                 "options_hi": ["राजपुत्र", "माता-पिता", "पंचतंत्र", "देशभक्त"],
                 "answer_en": "माता-पिता",
                 "answer_hi": "माता-पिता"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 83,
                 "question_en": "What is the correct विशेषण for 'गंगा'?",
                 "question_hi": "'गंगा' का सही विशेषण क्या है?",
@@ -927,9 +927,9 @@ const questions = [
                 "options_hi": ["गंगीय", "गांगेय", "गंगावत", "गंगानदी"],
                 "answer_en": "गांगेय",
                 "answer_hi": "गांगेय"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 84,
                 "question_en": "Which of these is a 'कर्मधारय समास'?",
                 "question_hi": "निम्न में से कौन 'कर्मधारय समास' है?",
@@ -937,9 +937,9 @@ const questions = [
                 "options_hi": ["नीलकंठ", "चौराहा", "आजन्म", "तिरंगा"],
                 "answer_en": "नीलकंठ",
                 "answer_hi": "नीलकंठ"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 85,
                 "question_en": "Which punctuation mark is missing in: 'क्या तुम आ रहे हो__'?",
                 "question_hi": "'क्या तुम आ रहे हो__' में कौन-सा विराम चिह्न छूट गया है?",
@@ -947,9 +947,9 @@ const questions = [
                 "options_hi": ["। (पूर्ण विराम)", "? (प्रश्नवाचक)", ", (अल्प विराम)", "! (विस्मयादिबोधक)"],
                 "answer_en": "? (प्रश्नवाचक)",
                 "answer_hi": "? (प्रश्नवाचक)"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 86,
                 "question_en": "What is the meaning of the idiom 'ऊँट के मुँह में जीरा'?",
                 "question_hi": "'ऊँट के मुँह में जीरा' मुहावरे का अर्थ क्या है?",
@@ -957,9 +957,9 @@ const questions = [
                 "options_hi": ["बहुत स्वादिष्ट", "बड़ी आवश्यकता के लिए बहुत कम", "समय की बर्बादी", "अत्यंत तीखा"],
                 "answer_en": "Too little for a big need",
                 "answer_hi": "बड़ी आवश्यकता के लिए बहुत कम"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 87,
                 "question_en": "Which of these is an example of 'अपठित गद्यांश'?",
                 "question_hi": "निम्न में से कौन 'अपठित गद्यांश' का उदाहरण है?",
@@ -967,9 +967,9 @@ const questions = [
                 "options_hi": ["बोधगम्यता के लिए अनदेखा अंश", "याद की हुई कविता", "व्याकरण अभ्यास", "पत्र लेखन"],
                 "answer_en": "Unseen passage for comprehension",
                 "answer_hi": "बोधगम्यता के लिए अनदेखा अंश"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 88,
                 "question_en": "Which tense is used in 'वह खेल रहा है'?",
                 "question_hi": "'वह खेल रहा है' में कौन-सा काल प्रयुक्त हुआ है?",
@@ -977,9 +977,9 @@ const questions = [
                 "options_hi": ["भूतकाल", "वर्तमान अपूर्ण काल", "भविष्यत काल", "पूर्ण भूतकाल"],
                 "answer_en": "Present Continuous",
                 "answer_hi": "वर्तमान अपूर्ण काल"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 89,
                 "question_en": "What is the synonym of 'सुंदर'?",
                 "question_hi": "'सुंदर' का पर्यायवाची क्या है?",
@@ -987,9 +987,9 @@ const questions = [
                 "options_hi": ["कुरूप", "असभ्य", "खूबसूरत", "भद्दा"],
                 "answer_en": "खूबसूरत",
                 "answer_hi": "खूबसूरत"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 90,
                 "question_en": "Which of these is a formal letter topic?",
                 "question_hi": "निम्न में से कौन-सा औपचारिक पत्र का विषय है?",
@@ -997,9 +997,9 @@ const questions = [
                 "options_hi": ["दोस्त को पार्टी में आमंत्रित करना", "खराब बस सेवा के बारे में शिकायत", "चचेरे भाई को बधाई देना", "छुट्टियों की योजनाएँ साझा करना"],
                 "answer_en": "Complaint about poor bus service",
                 "answer_hi": "खराब बस सेवा के बारे में शिकायत"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 91,
                 "question_en": "Which figure of speech is used in 'मेघ आए, बड़े बन ठन के'?",
                 "question_hi": "'मेघ आए, बड़े बन ठन के' में कौन-सा अलंकार है?",
@@ -1007,9 +1007,9 @@ const questions = [
                 "options_hi": ["अनुप्रास", "उत्प्रेक्षा", "रूपक", "अतिशयोक्ति"],
                 "answer_en": "Utpreksha",
                 "answer_hi": "उत्प्रेक्षा"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 92,
                 "question_en": "What is the correct plural of 'किताब'?",
                 "question_hi": "'किताब' का बहुवचन क्या है?",
@@ -1017,9 +1017,9 @@ const questions = [
                 "options_hi": ["किताबें", "किताबों", "किताबे", "किताबाएँ"],
                 "answer_en": "किताबें",
                 "answer_hi": "किताबें"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 93,
                 "question_en": "Which of these is a 'विधानार्थक वाक्य'?",
                 "question_hi": "निम्न में से कौन 'विधानार्थक वाक्य' है?",
@@ -1027,9 +1027,9 @@ const questions = [
                 "options_hi": ["क्या तुम जाओगे?", "वह पढ़ता है।", "धीरे बोलो!", "हाय, दर्द हो रहा है!"],
                 "answer_en": "वह पढ़ता है।",
                 "answer_hi": "वह पढ़ता है।"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 94,
                 "question_en": "What is the antonym of 'सफल'?",
                 "question_hi": "'सफल' का विलोम शब्द क्या है?",
@@ -1037,9 +1037,9 @@ const questions = [
                 "options_hi": ["असफल", "सुखद", "कठिन", "लाभदायक"],
                 "answer_en": "असफल",
                 "answer_hi": "असफल"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 95,
                 "question_en": "Which essay type is 'मेरा प्रिय खेल'?",
                 "question_hi": "'मेरा प्रिय खेल' किस प्रकार का निबंध है?",
@@ -1047,9 +1047,9 @@ const questions = [
                 "options_hi": ["वर्णनात्मक", "तर्कपूर्ण", "कथात्मक", "विचारात्मक"],
                 "answer_en": "Descriptive",
                 "answer_hi": "वर्णनात्मक"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 96,
                 "question_en": "Which of these is a 'भाववाच्य' example?",
                 "question_hi": "निम्न में से कौन 'भाववाच्य' का उदाहरण है?",
@@ -1057,9 +1057,9 @@ const questions = [
                 "options_hi": ["राम खेलता है।", "मुझसे पढ़ा नहीं जाता।", "वह पुस्तक पढ़ेगा।", "तुमने काम किया।"],
                 "answer_en": "मुझसे पढ़ा नहीं जाता।",
                 "answer_hi": "मुझसे पढ़ा नहीं जाता।"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 97,
                 "question_en": "What is the correct spelling?",
                 "question_hi": "कौन-सी वर्तनी सही है?",
@@ -1067,9 +1067,9 @@ const questions = [
                 "options_hi": ["व्याकरण", "व्याकरन", "व्याकर्रण", "वयाकरण"],
                 "answer_en": "व्याकरण",
                 "answer_hi": "व्याकरण"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 98,
                 "question_en": "Which of these is a play (एकांकी) in ICSE Hindi?",
                 "question_hi": "निम्न में से कौन ICSE हिंदी की एकांकी है?",
@@ -1077,9 +1077,9 @@ const questions = [
                 "options_hi": ["बड़े घर की बेटी", "दोहे", "झाँसी की रानी", "प्रेमचंद की कहानियाँ"],
                 "answer_en": "Bade Ghar Ki Beti",
                 "answer_hi": "बड़े घर की बेटी"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 99,
                 "question_en": "What is the correct order in a formal letter?",
                 "question_hi": "औपचारिक पत्र में कौन-सा क्रम सही है?",
@@ -1087,9 +1087,9 @@ const questions = [
                 "options_hi": ["तिथि → प्रेषक का पता → विषय", "विषय → संबोधन → मुख्य भाग", "प्राप्तकर्ता का पता → तिथि → विषय", "संबोधन → मुख्य भाग → हस्ताक्षर"],
                 "answer_en": "Receiver’s Address → Date → Subject",
                 "answer_hi": "प्राप्तकर्ता का पता → तिथि → विषय"
-              }
-              ,
-              {
+        }
+        ,
+        {
                 "num": 100,
                 "question_en": "Which poet wrote 'हरिहर काका'?",
                 "question_hi": "'हरिहर काका' किस कवि की रचना है?",
@@ -1097,7 +1097,7 @@ const questions = [
                 "options_hi": ["प्रेमचंद", "महादेवी वर्मा", "नागार्जुन", "भीष्म साहनी"],
                 "answer_en": "Nagarjun",
                 "answer_hi": "नागार्जुन"
-              },
+        },
 
 
 
