@@ -142,7 +142,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: hsl(118, 92%, 38%);
             margin: 0;
             padding: 0;
             display: flex;
@@ -152,7 +152,7 @@
             flex-direction: column;
         }
         .result-container {
-            background-color: #fff;
+            background-color: hsl(0, 72%, 62%);
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -193,7 +193,7 @@
             background-color: #f9f9f9;
         }
         tr:hover {
-            background-color: #f1f1f1;
+            background-color: hsl(253, 66%, 50%);
         }
         .not-attempted {
             color: #FF5722;
@@ -202,7 +202,7 @@
 </head>
 <body>
     <div class="result-container">
-        <h1>Quiz Results</h1>
+            <h1>Quiz Results</h1>
         <p>Attempted: <span class="attempted" id="attempted"></span> | Not Attempted: <span class="not-attempted" id="notAttempted"></span> | Score: <span class="score" id="score"></span></p>
 
         <h2>Detailed Results:</h2>
@@ -215,7 +215,7 @@
                     <th>Correct Answer</th>
                 </tr>
             </thead>
-            <tbody id="resultsTable"></tbody>
+            <tbody id="ResultsTable"></tbody>
         </table>
     </div>
 
