@@ -20,7 +20,6 @@ const questions = [
           "selected": ""
         },
         {
-           
           "num": 3,
           "question_en": "When did India become a Republic?",
           "question_hi": "भारत गणराज्य कब बना?",
