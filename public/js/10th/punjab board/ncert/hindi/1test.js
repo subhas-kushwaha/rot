@@ -733,321 +733,437 @@ const questions = [
             "selected": ""
         },
 
-        {
-            "num": 61,
-            "question_hi": "‘मित्रता’ निबंध में किस गुण को मित्रता के लिए सबसे ज़रूरी बताया गया है?",
-            "options_hi": ["धन", "दया", "सच्चाई", "शक्ति"],
-            "answer_hi": "सच्चाई",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 62,
-            "question_hi": "‘मैं और मेरा देश’ निबंध में लेखक अपने देश को क्या मानता है?",
-            "options_hi": ["घर", "माता", "दुनिया", "शिक्षक"],
-            "answer_hi": "माता",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 63,
-            "question_hi": "डॉ. राजेन्द्र प्रसाद किस राज्य से संबंधित थे?",
-            "options_hi": ["उत्तर प्रदेश", "बिहार", "पंजाब", "गुजरात"],
-            "answer_hi": "बिहार",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 64,
-            "question_hi": "‘सदाचार का तावीज़’ में लेखक को यह तावीज़ कौन देता है?",
-            "options_hi": ["चाचा", "माता", "पिता", "दोस्त"],
-            "answer_hi": "पिता",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 65,
-            "question_hi": "‘ठेले का हिमालय’ में लेखक किससे प्रेरित होता है?",
-            "options_hi": ["हिमालय पर्वत", "ठेले वाला", "बस ड्राइवर", "लेखक मित्र"],
-            "answer_hi": "ठेले वाला",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 66,
-            "question_hi": "गुरु नानक देव जी ने किस बात का विरोध किया?",
-            "options_hi": ["खेल", "पढ़ाई", "अंधविश्वास और पाखंड", "संगीत"],
-            "answer_hi": "अंधविश्वास और पाखंड",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 67,
-            "question_hi": "सच्चे मित्र की पहचान कैसे होती है?",
-            "options_hi": ["दुख में साथ देने से", "उपहार देने से", "पढ़ाई में मदद से", "सैर कराने से"],
-            "answer_hi": "दुख में साथ देने से",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 68,
-            "question_hi": "‘मैं और मेरा देश’ में लेखक अपने देश से कैसा संबंध महसूस करता है?",
-            "options_hi": ["दूरी", "ममता और अपनापन", "गुस्सा", "डर"],
-            "answer_hi": "ममता और अपनापन",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 69,
-            "question_hi": "राजेन्द्र बाबू को कौन-सी उपाधि दी गई थी?",
-            "options_hi": ["भारत रत्न", "पद्मश्री", "ज्ञानपीठ", "नोबेल"],
-            "answer_hi": "भारत रत्न",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 70,
-            "question_hi": "‘सदाचार का तावीज़’ का मुख्य उद्देश्य क्या है?",
-            "options_hi": ["चमत्कार दिखाना", "धन कमाना", "सदाचार की शिक्षा देना", "यात्रा का वर्णन"],
-            "answer_hi": "सदाचार की शिक्षा देना",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 71,
-            "question_hi": "‘ठेले का हिमालय’ में ठेले वाले का संघर्ष किसका प्रतीक है?",
-            "options_hi": ["आराम का", "मानव श्रम का", "छात्र जीवन का", "सैन्य जीवन का"],
-            "answer_hi": "मानव श्रम का",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 72,
-            "question_hi": "गुरु नानक देव जी ने किस प्रकार का जीवन जीने की प्रेरणा दी?",
-            "options_hi": ["राजसी जीवन", "त्यागमय और सेवा का जीवन", "धन संचय", "एकांतवास"],
-            "answer_hi": "त्यागमय और सेवा का जीवन",
-            "attempted": false,
-            "selected": ""
-        },
-
-        {
-            "num": 73,
-            "question_hi": "‘सूखी डाली’ एकांकी में मुख्य पात्र कौन है?",
-            "options_hi": ["श्याम", "राजू", "दादी", "गुलाबो"],
-            "answer_hi": "दादी",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 74,
-            "question_hi": "‘सूखी डाली’ का प्रतीकात्मक अर्थ क्या है?",
-            "options_hi": ["पेड़", "जीवन का अंत", "बुढ़ापा और उपेक्षा", "नदी"],
-            "answer_hi": "बुढ़ापा और उपेक्षा",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 75,
-            "question_hi": "‘देश के दुश्मन’ एकांकी में दुश्मनों से तात्पर्य किससे है?",
-            "options_hi": ["विदेशी लोग", "आतंकी", "भ्रष्ट लोग", "देश को नुकसान पहुँचाने वाले लोग"],
-            "answer_hi": "देश को नुकसान पहुँचाने वाले लोग",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 76,
-            "question_hi": "सूखी डाली में दादी की हालत कैसी दिखाई गई है?",
-            "options_hi": ["स्वस्थ", "बोलचाल में तेज़", "लाचार और उपेक्षित", "धनवान"],
-            "answer_hi": "लाचार और उपेक्षित",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 77,
-            "question_hi": "देश के दुश्मन में लेखक ने किस भाव को जगाने का प्रयास किया है?",
-            "options_hi": ["क्रोध", "प्रेम", "देशभक्ति", "घृणा"],
-            "answer_hi": "देशभक्ति",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 78,
-            "question_hi": "सूखी डाली एकांकी का मुख्य संदेश क्या है?",
-            "options_hi": ["बचपन का महत्व", "प्रकृति प्रेम", "बुजुर्गों की देखभाल", "स्वच्छता"],
-            "answer_hi": "बुजुर्गों की देखभाल",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 79,
-            "question_hi": "देश के दुश्मन में लेखक किन दुश्मनों से सावधान करता है?",
-            "options_hi": ["भीतर के शत्रु", "सीमा पार के दुश्मन", "राजनेता", "अफसर"],
-            "answer_hi": "भीतर के शत्रु",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 80,
-            "question_hi": "‘सूखी डाली’ में दादी किस चीज़ से तुलना करती है?",
-            "options_hi": ["कंप्यूटर", "सूखे पेड़ से", "कागज से", "सपनों से"],
-            "answer_hi": "सूखे पेड़ से",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 81,
-            "question_hi": "देश के दुश्मन एकांकी का लेखक क्या संदेश देता है?",
-            "options_hi": ["घृणा फैलाओ", "देश छोड़ दो", "देश से प्रेम करो", "बाहरी ताकतों से मिलो"],
-            "answer_hi": "देश से प्रेम करो",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 82,
-            "question_hi": "सूखी डाली में कौन-सा भाव प्रमुख रूप से उभरता है?",
-            "options_hi": ["हास्य", "करुणा", "रोमांच", "रोष"],
-            "answer_hi": "करुणा",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 83,
-            "question_hi": "‘सुख’ का विलोम शब्द क्या है?",
-            "options_hi": ["खुशी", "दुख", "प्रसन्न", "शांति"],
-            "answer_hi": "दुख",
-            "attempted": false,
-            "selected": ""
-          },
-  
-        {
-            "num": 84,
-            "question_hi": "‘सूखी डाली’ का लेखक बुजुर्गों के प्रति समाज के किस व्यवहार को दिखाता है?",
-            "options_hi": ["सम्मान", "उपेक्षा", "आदर", "सहानुभूति"],
-            "answer_hi": "उपेक्षा",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 85,
-            "question_hi": "देश के दुश्मन एकांकी हमें किससे प्रेरित करता है?",
-            "options_hi": ["स्वार्थ", "देशभक्ति", "पराजय", "विलास"],
-            "answer_hi": "देशभक्ति",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 86,
-            "question_hi": "‘सूखी डाली’ में किस रिश्ते को संवेदनशील रूप में दर्शाया गया है?",
-            "options_hi": ["मित्रता", "दादी-पोते", "भाई-बहन", "माँ-बेटा"],
-            "answer_hi": "दादी-पोते",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 87,
-            "question_hi": "देश के दुश्मन में लेखक कौन है?",
-            "options_hi": ["रामानंद", "अज्ञात", "सुभाष चंद्र", "बालकृष्ण राव"],
-            "answer_hi": "बालकृष्ण राव",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 88,
-            "question_hi": "सूखी डाली एकांकी में दादी की भावना क्या थी?",
-            "options_hi": ["घृणा", "प्यार", "अकेलापन", "मस्ती"],
-            "answer_hi": "अकेलापन",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 89,
-            "question_hi": "देश के दुश्मन में भ्रष्ट लोगों को क्या कहा गया है?",
-            "options_hi": ["देशभक्त", "रक्षक", "देश के दुश्मन", "सज्जन"],
-            "answer_hi": "देश के दुश्मन",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 90,
-            "question_hi": "सूखी डाली में परिवार के अन्य सदस्य दादी के प्रति कैसे थे?",
-            "options_hi": ["स्नेही", "लापरवाह", "प्रेमपूर्ण", "सम्मानित"],
-            "answer_hi": "लापरवाह",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 91,
-            "question_hi": "देश के दुश्मन में लेखक हमें क्या करने को कहता है?",
-            "options_hi": ["भ्रष्टाचार को सहना", "संवेदनहीन बनना", "जागरूक नागरिक बनना", "सिर्फ बात करना"],
-            "answer_hi": "जागरूक नागरिक बनना",
-            "attempted": false,
-            "selected": ""
-        },
-        {
-            "num": 92,
-            "question_hi": "सूखी डाली का अंत किस भावना के साथ होता है?",
-            "options_hi": ["हास्य", "प्रेम", "विचार", "करुणा और आत्मग्लानि"],
-            "answer_hi": "करुणा और आत्मग्लानि",
-            "attempted": false,
-            "selected": ""
-        },
         
             {
-              "num": 93,
-              "question_hi": "‘सूर्य + उदय’ में कौन-सी संधि है?",
-              "options_hi": ["स्वर संधि", "व्यंजन संधि", "विसर्ग संधि", "इनमें से कोई नहीं"],
-              "answer_hi": "स्वर संधि",
-              "attempted": false,
-              "selected": ""
+                "num": 61,
+                "question_en": "Which quality is considered most essential for friendship in the essay 'Mitrata'?",
+                "question_hi": "‘मित्रता’ निबंध में किस गुण को मित्रता के लिए सबसे ज़रूरी बताया गया है?",
+                "options_en": ["Wealth", "Compassion", "Truthfulness", "Power"],
+                "options_hi": ["धन", "दया", "सच्चाई", "शक्ति"],
+                "answer_en": "Truthfulness",
+                "answer_hi": "सच्चाई",
+                "attempted": false,
+                "selected": ""
             },
             {
-              "num": 94,
-              "question_hi": "‘राजपथ’ शब्द में कौन-सा समास है?",
-              "options_hi": ["द्वंद्व", "तत्पुरुष", "बहुव्रीहि", "कर्मधारय"],
-              "answer_hi": "तत्पुरुष",
-              "attempted": false,
-              "selected": ""
+                "num": 62,
+                "question_en": "In the essay 'Main aur Mera Desh', how does the author perceive their country?",
+                "question_hi": "‘मैं और मेरा देश’ निबंध में लेखक अपने देश को क्या मानता है?",
+                "options_en": ["Home", "Mother", "World", "Teacher"],
+                "options_hi": ["घर", "माता", "दुनिया", "शिक्षक"],
+                "answer_en": "Mother",
+                "answer_hi": "माता",
+                "attempted": false,
+                "selected": ""
             },
             {
-              "num": 95,
-              "question_hi": "‘अपूर्व’ शब्द में कौन-सा उपसर्ग है?",
-              "options_hi": ["अ", "पूर्व", "अप", "इनमें से कोई नहीं"],
-              "answer_hi": "अ",
-              "attempted": false,
-              "selected": ""
+                "num": 63,
+                "question_en": "Which state is Dr. Rajendra Prasad associated with?",
+                "question_hi": "डॉ. राजेन्द्र प्रसाद किस राज्य से संबंधित थे?",
+                "options_en": ["Uttar Pradesh", "Bihar", "Punjab", "Gujarat"],
+                "options_hi": ["उत्तर प्रदेश", "बिहार", "पंजाब", "गुजरात"],
+                "answer_en": "Bihar",
+                "answer_hi": "बिहार",
+                "attempted": false,
+                "selected": ""
             },
             {
-              "num": 96,
-              "question_hi": "‘बालक’ से ‘बालकपन’ शब्द बनने में कौन-सा प्रत्यय जुड़ा है?",
-              "options_hi": ["क", "पन", "ता", "ई"],
-              "answer_hi": "पन",
-              "attempted": false,
-              "selected": ""
+                "num": 64,
+                "question_en": "Who gives the 'Taweez of Sadachar' to the author in the essay?",
+                "question_hi": "‘सदाचार का तावीज़’ में लेखक को यह तावीज़ कौन देता है?",
+                "options_en": ["Uncle", "Mother", "Father", "Friend"],
+                "options_hi": ["चाचा", "माता", "पिता", "दोस्त"],
+                "answer_en": "Father",
+                "answer_hi": "पिता",
+                "attempted": false,
+                "selected": ""
             },
             {
-              "num": 97,
-              "question_hi": "‘राम ने खाना खाया’ — इस वाक्य का काल है?",
-              "options_hi": ["वर्तमान काल", "भविष्यत् काल", "भूतकाल", "आदेशात्मक"],
-              "answer_hi": "भूतकाल",
-              "attempted": false,
-              "selected": ""
+                "num": 65,
+                "question_en": "In 'Thele ka Himalaya', who inspires the author?",
+                "question_hi": "‘ठेले का हिमालय’ में लेखक किससे प्रेरित होता है?",
+                "options_en": ["Himalayas", "Cart-puller", "Bus driver", "Writer friend"],
+                "options_hi": ["हिमालय पर्वत", "ठेले वाला", "बस ड्राइवर", "लेखक मित्र"],
+                "answer_en": "Cart-puller",
+                "answer_hi": "ठेले वाला",
+                "attempted": false,
+                "selected": ""
             },
             {
-              "num": 98,
-              "question_hi": "‘पुस्तक’ शब्द का लिंग क्या है?",
-              "options_hi": ["पुल्लिंग", "स्त्रीलिंग", "उभयलिंग", "इनमें से कोई नहीं"],
-              "answer_hi": "स्त्रीलिंग",
-              "attempted": false,
-              "selected": ""
+                "num": 66,
+                "question_en": "What did Guru Nanak Dev Ji oppose?",
+                "question_hi": "गुरु नानक देव जी ने किस बात का विरोध किया?",
+                "options_en": ["Sports", "Studies", "Superstitions and hypocrisy", "Music"],
+                "options_hi": ["खेल", "पढ़ाई", "अंधविश्वास और पाखंड", "संगीत"],
+                "answer_en": "Superstitions and hypocrisy",
+                "answer_hi": "अंधविश्वास और पाखंड",
+                "attempted": false,
+                "selected": ""
             },
             {
-              "num": 99,
-              "question_hi": "‘बालक’ शब्द का बहुवचन क्या होगा?",
-              "options_hi": ["बालक", "बालकें", "बालकों", "बालक लोग"],
-              "answer_hi": "बालक",
-              "attempted": false,
-              "selected": ""
+                "num": 67,
+                "question_en": "How is a true friend identified?",
+                "question_hi": "सच्चे मित्र की पहचान कैसे होती है?",
+                "options_en": ["By supporting in sorrow", "By giving gifts", "By helping in studies", "By taking on trips"],
+                "options_hi": ["दुख में साथ देने से", "उपहार देने से", "पढ़ाई में मदद से", "सैर कराने से"],
+                "answer_en": "By supporting in sorrow",
+                "answer_hi": "दुख में साथ देने से",
+                "attempted": false,
+                "selected": ""
             },
+            {
+                "num": 68,
+                "question_en": "In 'Main aur Mera Desh', how does the author feel connected to their country?",
+                "question_hi": "‘मैं और मेरा देश’ में लेखक अपने देश से कैसा संबंध महसूस करता है?",
+                "options_en": ["Distance", "Affection and belonging", "Anger", "Fear"],
+                "options_hi": ["दूरी", "ममता और अपनापन", "गुस्सा", "डर"],
+                "answer_en": "Affection and belonging",
+                "answer_hi": "ममता और अपनापन",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 69,
+                "question_en": "Which title was given to Rajendra Babu?",
+                "question_hi": "राजेन्द्र बाबू को कौन-सी उपाधि दी गई थी?",
+                "options_en": ["Bharat Ratna", "Padma Shri", "Gyanpeeth", "Nobel"],
+                "options_hi": ["भारत रत्न", "पद्मश्री", "ज्ञानपीठ", "नोबेल"],
+                "answer_en": "Bharat Ratna",
+                "answer_hi": "भारत रत्न",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 70,
+                "question_en": "What is the main purpose of 'Sadachar ka Taweez'?",
+                "question_hi": "‘सदाचार का तावीज़’ का मुख्य उद्देश्य क्या है?",
+                "options_en": ["To show miracles", "To earn money", "To teach morality", "To describe travel"],
+                "options_hi": ["चमत्कार दिखाना", "धन कमाना", "सदाचार की शिक्षा देना", "यात्रा का वर्णन"],
+                "answer_en": "To teach morality",
+                "answer_hi": "सदाचार की शिक्षा देना",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 71,
+                "question_en": "In 'Thele ka Himalaya', what does the cart-puller's struggle symbolize?",
+                "question_hi": "‘ठेले का हिमालय’ में ठेले वाले का संघर्ष किसका प्रतीक है?",
+                "options_en": ["Comfort", "Human labor", "Student life", "Military life"],
+                "options_hi": ["आराम का", "मानव श्रम का", "छात्र जीवन का", "सैन्य जीवन का"],
+                "answer_en": "Human labor",
+                "answer_hi": "मानव श्रम का",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 72,
+                "question_en": "What kind of life did Guru Nanak Dev Ji inspire to live?",
+                "question_hi": "गुरु नानक देव जी ने किस प्रकार का जीवन जीने की प्रेरणा दी?",
+                "options_en": ["Royal life", "Life of sacrifice and service", "Wealth accumulation", "Solitude"],
+                "options_hi": ["राजसी जीवन", "त्यागमय और सेवा का जीवन", "धन संचय", "एकांतवास"],
+                "answer_en": "Life of sacrifice and service",
+                "answer_hi": "त्यागमय और सेवा का जीवन",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 73,
+                "question_en": "Who is the main character in the one-act play 'Sookhi Daali'?",
+                "question_hi": "‘सूखी डाली’ एकांकी में मुख्य पात्र कौन है?",
+                "options_en": ["Shyam", "Raju", "Grandmother", "Gulabo"],
+                "options_hi": ["श्याम", "राजू", "दादी", "गुलाबो"],
+                "answer_en": "Grandmother",
+                "answer_hi": "दादी",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 74,
+                "question_en": "What is the symbolic meaning of 'Sookhi Daali'?",
+                "question_hi": "‘सूखी डाली’ का प्रतीकात्मक अर्थ क्या है?",
+                "options_en": ["Tree", "End of life", "Old age and neglect", "River"],
+                "options_hi": ["पेड़", "जीवन का अंत", "बुढ़ापा और उपेक्षा", "नदी"],
+                "answer_en": "Old age and neglect",
+                "answer_hi": "बुढ़ापा और उपेक्षा",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 75,
+                "question_en": "In 'Desh ke Dushman', who are referred to as enemies?",
+                "question_hi": "‘देश के दुश्मन’ एकांकी में दुश्मनों से तात्पर्य किससे है?",
+                "options_en": ["Foreigners", "Terrorists", "Corrupt people", "Those harming the nation"],
+                "options_hi": ["विदेशी लोग", "आतंकी", "भ्रष्ट लोग", "देश को नुकसान पहुँचाने वाले लोग"],
+                "answer_en": "Those harming the nation",
+                "answer_hi": "देश को नुकसान पहुँचाने वाले लोग",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 76,
+                "question_en": "How is the grandmother's condition depicted in 'Sookhi Daali'?",
+                "question_hi": "सूखी डाली में दादी की हालत कैसी दिखाई गई है?",
+                "options_en": ["Healthy", "Quick in speech", "Helpless and neglected", "Wealthy"],
+                "options_hi": ["स्वस्थ", "बोलचाल में तेज़", "लाचार और उपेक्षित", "धनवान"],
+                "answer_en": "Helpless and neglected",
+                "answer_hi": "लाचार और उपेक्षित",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 77,
+                "question_en": "What emotion does 'Desh ke Dushman' aim to awaken?",
+                "question_hi": "देश के दुश्मन में लेखक ने किस भाव को जगाने का प्रयास किया है?",
+                "options_en": ["Anger", "Love", "Patriotism", "Hatred"],
+                "options_hi": ["क्रोध", "प्रेम", "देशभक्ति", "घृणा"],
+                "answer_en": "Patriotism",
+                "answer_hi": "देशभक्ति",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 78,
+                "question_en": "What is the main message of 'Sookhi Daali'?",
+                "question_hi": "सूखी डाली एकांकी का मुख्य संदेश क्या है?",
+                "options_en": ["Importance of childhood", "Love for nature", "Care for elders", "Cleanliness"],
+                "options_hi": ["बचपन का महत्व", "प्रकृति प्रेम", "बुजुर्गों की देखभाल", "स्वच्छता"],
+                "answer_en": "Care for elders",
+                "answer_hi": "बुजुर्गों की देखभाल",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 79,
+                "question_en": "In 'Desh ke Dushman', whom does the author warn against?",
+                "question_hi": "देश के दुश्मन में लेखक किन दुश्मनों से सावधान करता है?",
+                "options_en": ["External enemies", "Enemies within", "Politicians", "Officials"],
+                "options_hi": ["सीमा पार के दुश्मन", "भीतर के शत्रु", "राजनेता", "अफसर"],
+                "answer_en": "Enemies within",
+                "answer_hi": "भीतर के शत्रु",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 80,
+                "question_en": "In 'Sookhi Daali', what does the grandmother compare herself to?",
+                "question_hi": "‘सूखी डाली’ में दादी किस चीज़ से तुलना करती है?",
+                "options_en": ["Computer", "Dry tree", "Paper", "Dreams"],
+                "options_hi": ["कंप्यूटर", "सूखे पेड़ से", "कागज से", "सपनों से"],
+                "answer_en": "Dry tree",
+                "answer_hi": "सूखे पेड़ से",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 81,
+                "question_en": "What message does 'Desh ke Dushman' convey?",
+                "question_hi": "देश के दुश्मन एकांकी का लेखक क्या संदेश देता है?",
+                "options_en": ["Spread hatred", "Leave the country", "Love the nation", "Join external forces"],
+                "options_hi": ["घृणा फैलाओ", "देश छोड़ दो", "देश से प्रेम करो", "बाहरी ताकतों से मिलो"],
+                "answer_en": "Love the nation",
+                "answer_hi": "देश से प्रेम करो",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 82,
+                "question_en": "Which emotion is prominent in 'Sookhi Daali'?",
+                "question_hi": "सूखी डाली में कौन-सा भाव प्रमुख रूप से उभरता है?",
+                "options_en": ["Humor", "Compassion", "Thrill", "Anger"],
+                "options_hi": ["हास्य", "करुणा", "रोमांच", "रोष"],
+                "answer_en": "Compassion",
+                "answer_hi": "करुणा",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 83,
+                "question_en": "What is the antonym of 'Sukh' (Happiness)?",
+                "question_hi": "‘सुख’ का विलोम शब्द क्या है?",
+                "options_en": ["Joy", "Sorrow", "Pleased", "Peace"],
+                "options_hi": ["खुशी", "दुख", "प्रसन्न", "शांति"],
+                "answer_en": "Sorrow",
+                "answer_hi": "दुख",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 84,
+                "question_en": "What societal behavior towards elders is shown in 'Sookhi Daali'?",
+                "question_hi": "‘सूखी डाली’ का लेखक बुजुर्गों के प्रति समाज के किस व्यवहार को दिखाता है?",
+                "options_en": ["Respect", "Neglect", "Honor", "Sympathy"],
+                "options_hi": ["सम्मान", "उपेक्षा", "आदर", "सहानुभूति"],
+                "answer_en": "Neglect",
+                "answer_hi": "उपेक्षा",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 85,
+                "question_en": "What does 'Desh ke Dushman' inspire?",
+                "question_hi": "देश के दुश्मन एकांकी हमें किससे प्रेरित करता है?",
+                "options_en": ["Selfishness", "Patriotism", "Defeat", "Luxury"],
+                "options_hi": ["स्वार्थ", "देशभक्ति", "पराजय", "विलास"],
+                "answer_en": "Patriotism",
+                "answer_hi": "देशभक्ति",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 86,
+                "question_en": "Which relationship is sensitively portrayed in 'Sookhi Daali'?",
+                "question_hi": "‘सूखी डाली’ में किस रिश्ते को संवेदनशील रूप में दर्शाया गया है?",
+                "options_en": ["Friendship", "Grandmother-grandson", "Siblings", "Mother-son"],
+                "options_hi": ["मित्रता", "दादी-पोते", "भाई-बहन", "माँ-बेटा"],
+                "answer_en": "Grandmother-grandson",
+                "answer_hi": "दादी-पोते",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 87,
+                "question_en": "Who is the author of 'Desh ke Dushman'?",
+                "question_hi": "देश के दुश्मन में लेखक कौन है?",
+                "options_en": ["Ramanand", "Anonymous", "Subhash Chandra", "Balakrishna Rao"],
+                "options_hi": ["रामानंद", "अज्ञात", "सुभाष चंद्र", "बालकृष्ण राव"],
+                "answer_en": "Balakrishna Rao",
+                "answer_hi": "बालकृष्ण राव",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 88,
+                "question_en": "What was the grandmother's emotion in 'Sookhi Daali'?",
+                "question_hi": "सूखी डाली एकांकी में दादी की भावना क्या थी?",
+                "options_en": ["Hatred", "Love", "Loneliness", "Fun"],
+                "options_hi": ["घृणा", "प्यार", "अकेलापन", "मस्ती"],
+                "answer_en": "Loneliness",
+                "answer_hi": "अकेलापन",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 89,
+                "question_en": "How are corrupt people described in 'Desh ke Dushman'?",
+                "question_hi": "देश के दुश्मन में भ्रष्ट लोगों को क्या कहा गया है?",
+                "options_en": ["Patriots", "Protectors", "Enemies of the nation", "Gentlemen"],
+                "options_hi": ["देशभक्त", "रक्षक", "देश के दुश्मन", "सज्जन"],
+                "answer_en": "Enemies of the nation",
+                "answer_hi": "देश के दुश्मन",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 90,
+                "question_en": "How did other family members treat the grandmother in 'Sookhi Daali'?",
+                "question_hi": "सूखी डाली में परिवार के अन्य सदस्य दादी के प्रति कैसे थे?",
+                "options_en": ["Affectionate", "Careless", "Loving", "Respectful"],
+                "options_hi": ["स्नेही", "लापरवाह", "प्रेमपूर्ण", "सम्मानित"],
+                "answer_en": "Careless",
+                "answer_hi": "लापरवाह",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 91,
+                "question_en": "What does the author of 'Desh ke Dushman' urge us to do?",
+                "question_hi": "देश के दुश्मन में लेखक हमें क्या करने को कहता है?",
+                "options_en": ["Tolerate corruption", "Be insensitive", "Become aware citizens", "Just talk"],
+                "options_hi": ["भ्रष्टाचार को सहना", "संवेदनहीन बनना", "जागरूक नागरिक बनना", "सिर्फ बात करना"],
+                "answer_en": "Become aware citizens",
+                "answer_hi": "जागरूक नागरिक बनना",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 92,
+                "question_en": "How does 'Sookhi Daali' end?",
+                "question_hi": "सूखी डाली का अंत किस भावना के साथ होता है?",
+                "options_en": ["With humor", "With love", "With reflection", "With compassion and guilt"],
+                "options_hi": ["हास्य", "प्रेम", "विचार", "करुणा और आत्मग्लानि"],
+                "answer_en": "With compassion and guilt",
+                "answer_hi": "करुणा और आत्मग्लानि",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 93,
+                "question_en": "Which sandhi is in 'Surya + Uday'?",
+                "question_hi": "‘सूर्य + उदय’ में कौन-सी संधि है?",
+                "options_en": ["Swar Sandhi", "Vyanjan Sandhi", "Visarga Sandhi", "None"],
+                "options_hi": ["स्वर संधि", "व्यंजन संधि", "विसर्ग संधि", "इनमें से कोई नहीं"],
+                "answer_en": "Swar Sandhi",
+                "answer_hi": "स्वर संधि",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 94,
+                "question_en": "Which samas is in 'Rajpath'?",
+                "question_hi": "‘राजपथ’ शब्द में कौन-सा समास है?",
+                "options_en": ["Dvandva", "Tatpurush", "Bahuvrihi", "Karmadharay"],
+                "options_hi": ["द्वंद्व", "तत्पुरुष", "बहुव्रीहि", "कर्मधारय"],
+                "answer_en": "Tatpurush",
+                "answer_hi": "तत्पुरुष",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 95,
+                "question_en": "Which prefix is in 'Apoorv'?",
+                "question_hi": "‘अपूर्व’ शब्द में कौन-सा उपसर्ग है?",
+                "options_en": ["A", "Poorv", "Ap", "None"],
+                "options_hi": ["अ", "पूर्व", "अप", "इनमें से कोई नहीं"],
+                "answer_en": "A",
+                "answer_hi": "अ",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 96,
+                "question_en": "Which suffix is added to 'Balak' to form 'Balakpan'?",
+                "question_hi": "‘बालक’ से ‘बालकपन’ शब्द बनने में कौन-सा प्रत्यय जुड़ा है?",
+                "options_en": ["Ka", "Pan", "Ta", "Ee"],
+                "options_hi": ["क", "पन", "ता", "ई"],
+                "answer_en": "Pan",
+                "answer_hi": "पन",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 97,
+                "question_en": "What is the tense in 'Ram ne khana khaya'?",
+                "question_hi": "‘राम ने खाना खाया’ — इस वाक्य का काल है?",
+                "options_en": ["Present", "Future", "Past", "Imperative"],
+                "options_hi": ["वर्तमान काल", "भविष्यत् काल", "भूतकाल", "आदेशात्मक"],
+                "answer_en": "Past",
+                "answer_hi": "भूतकाल",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 98,
+                "question_en": "What is the gender of 'Pustak'?",
+                "question_hi": "‘पुस्तक’ शब्द का लिंग क्या है?",
+                "options_en": ["Masculine", "Feminine", "Neuter", "None"],
+                "options_hi": ["पुल्लिंग", "स्त्रीलिंग", "उभयलिंग", "इनमें से कोई नहीं"],
+                "answer_en": "Feminine",
+                "answer_hi": "स्त्रीलिंग",
+                "attempted": false,
+                "selected": ""
+            },
+            {
+                "num": 99,
+                "question_en": "What is the plural of 'Balak'?",
+                "question_hi": "‘बालक’ शब्द का बहुवचन क्या होगा?",
+                "options_en": ["Balak", "Balaken", "Balakon", "Balak log"],
+                "options_hi": ["बालक", "बालकें", "बालकों", "बालक लोग"],
+                "answer_en": "Balak",
+                "answer_hi": "बालक",
+                "attempted": false,
+                "selected": ""
+            },
+        
             {
                 "num": 100,
                 "question_hi": "‘अंधकार’ का पर्यायवाची शब्द क्या है?",
