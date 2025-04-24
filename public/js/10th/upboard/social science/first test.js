@@ -13,7 +13,11 @@ const questions = [
         "answer_hi": "1919",
         "attempted": false,
         "selected": ""
+<<<<<<< HEAD
+        },
+=======
         ,}
+>>>>>>> ffb570d0bae427e09510c822ccab3dedc4e22889
         
         
         {
